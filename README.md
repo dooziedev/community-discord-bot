@@ -1,5 +1,5 @@
 # community-discord-bot
-A simple base for a community Discord bot written in python.
+A simple base for a community Discord bot written in python. Any feedback and suggestions are greatly appreciated.
 
 Steps to configure the bot.
 
